@@ -1,0 +1,1 @@
+The purpose of this project is to re-create the google homepage for the HTML/CSS section of the TOP project.  I completed the projects from FCC but for some of the sections I really felt like I was just hitting markers and not really making pages that looked good.
